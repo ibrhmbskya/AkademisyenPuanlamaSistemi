@@ -1,4 +1,4 @@
-# PuanlamaSistemi
+# AkademisyenPuanlamaSistemi
 Öğretim Elemanı Puanlama Sistemi
 
 Lisans ve lisansüstü öğrencileri olan bir eğitim kurumunun, öğretim elemanları hakkında
